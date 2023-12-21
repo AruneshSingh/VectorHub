@@ -14,6 +14,10 @@ VectorHub is a free and open-sourced learning hub for people interested in addin
 
 Read more about our philosophy in our [Manifesto](manifesto.md).
 
+teste
+test
+test
+
 ## Built With
 
 * [Archbee](https://www.archbee.com/) - Frontend for markdown files
